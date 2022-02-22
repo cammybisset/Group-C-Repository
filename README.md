@@ -7,3 +7,6 @@ Adding new text v2
 [![LICENSE](https://img.shields.io/github/license/cammybisset/sem.svg?style=flat-square)](https://github.com/cammybisset/Group-C-Repository/blob/master/LICENSE)
 
 [![Releases](https://img.shields.io/github/release/cammybisset/sem/all.svg?style=flat-square)](https://github.com/cammybisset/Group-C-Repository/releases)
+
+# Software Engineering Methods
+![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/cammybisset/Group-C-Repository/master.yml>/develop?style=flat-square)
