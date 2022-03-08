@@ -9,4 +9,4 @@ Adding new text v2
 [![Releases](https://img.shields.io/github/release/cammybisset/sem/all.svg?style=flat-square)](https://github.com/cammybisset/Group-C-Repository/releases)
 
 # Software Engineering Methods
-![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/cammybisset/Group-C-Repository/master.yml>/develop?style=flat-square) 
+![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/cammybisset/Group-C-Repository/master.yml>/develop?style=flat-square)  
