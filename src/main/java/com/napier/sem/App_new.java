@@ -2,7 +2,7 @@ package com.napier.sem;
 
 import java.sql.*;
 
-public class App
+public class App_new
 {
     public static void main(String[] args)
     {
@@ -59,6 +59,4 @@ public class App
             }
         }
     }
-
-
 }
