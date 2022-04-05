@@ -1,8 +1,8 @@
-package com.napier.sem;
+package com.napier.sem.presentation;
 
 import java.sql.*;
 
-public class App_new
+public class App
 {
     public static void main(String[] args)
     {
@@ -59,4 +59,6 @@ public class App_new
             }
         }
     }
+
+
 }

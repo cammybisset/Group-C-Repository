@@ -48,7 +48,7 @@
                     <finalName>seMethods-GroupC</finalName>
                     <archive>
                         <manifest>
-                            <mainClass>com.napier.sem.App</mainClass>
+                            <mainClass>com.napier.sem.presentation.App</mainClass>
                         </manifest>
                     </archive>
                     <descriptorRefs>
