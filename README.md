@@ -13,7 +13,7 @@
 
 ### Repository Status
 Master Branch: 
-![workflow](https://img.shields.io/github/workflow/status/cammybisset/Group-C-Repository/A%20workflow%20for%20my%20Hello%20World%20App)
+![workflow](https://github.com/CammyBisset/Group-C-Repository/actions/workflows/main.yml/badge.svg)
 
 License: 
 ![license](https://img.shields.io/github/license/cammybisset/sem.svg?style=flat-square)
