@@ -8,50 +8,41 @@ body:
   - type: markdown
     attributes:
       value: |
-        Thanks for taking the time to fill out this bug report!
+        Thanks for taking the time to help make this application better!
   - type: input
     id: contact
     attributes:
       label: Contact Details
-      description: How can we get in touch with you if we need more info?
-      placeholder: ex. email@example.com
+      description: What email address is best to get in touch should we require more information?
+      placeholder: email@example.com
     validations:
       required: false
   - type: textarea
-    id: what-happened
+    id: user-description
     attributes:
-      label: What happened?
-      description: Also tell us, what did you expect to happen?
-      placeholder: Tell us what you see!
-      value: "A bug happened!"
+      label: Describe the bug
+      description: Explain in as much detail as possible to help us understand the severity of this bug
+      placeholder: Describe the bug here!
     validations:
       required: true
   - type: dropdown
-    id: version
+    id: user-version
     attributes:
       label: Version
-      description: What version of our software are you running?
+      description: Tell us what version of our application you were running
       options:
-        - 1.0.2 (Default)
-        - 1.0.3 (Edge)
+        - 0.1-alpha-1 (Pre-release v1.0)
+        - 0.1-alpha-2 (Pre-release v2.0)
     validations:
       required: true
-  - type: dropdown
-    id: browsers
-    attributes:
-      label: What browsers are you seeing the problem on?
-      multiple: true
-      options:
-        - Firefox
-        - Chrome
-        - Safari
-        - Microsoft Edge
   - type: textarea
-    id: logs
+    id: user-extra
     attributes:
-      label: Relevant log output
-      description: Please copy and paste any relevant log output. This will be automatically formatted into code, so no need for backticks.
-      render: shell
+      label: Any additional information?
+      description: Let us know anything else you wish to tell us about the bug such as how to recreate it or important points surrounding the effects of the bug
+      placeholder: Add extra information here!
+    validations:
+      required: false
   - type: checkboxes
     id: terms
     attributes:
