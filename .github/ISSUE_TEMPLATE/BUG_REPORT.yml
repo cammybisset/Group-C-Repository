@@ -33,9 +33,6 @@ body:
       options:
         - 0.1-alpha-1 (Pre-release v1.0)
         - 0.1-alpha-2 (Pre-release v2.0)
-        - 0.1-alpha-3 (Pre-release v3.0)
-        - 0.1-alpha-4 (Pre-release v4.0)
-        - 0.1-alpha-5 (Pre-release v5.0)
     validations:
       required: true
   - type: textarea
