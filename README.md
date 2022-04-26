@@ -1,6 +1,6 @@
 # Software Engineering Methods SET08403 - Group C
 
-### Team Members:
+### Team members:
 
 - Cammy Bisset
 - Ciaran Ballantine
